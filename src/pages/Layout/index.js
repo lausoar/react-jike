@@ -13,6 +13,8 @@ const Layout = () => {
         <li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
         <li>Custom Layouts with CSS</li>
       </ul>
+
+      <P>For more information on layout techniques, check out the documentation and tutorials available online.</P>
     </div>
   );
 };
