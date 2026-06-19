@@ -6,6 +6,13 @@ const Layout = () => {
       <p>Here you can find various layout options and examples.</p>
       <p>Feel free to explore and customize your layout as needed.</p>
       <p>Remember to save your changes and test your layout on different devices for responsiveness.</p>
+      <h2>Layout Examples</h2>
+      <ul>
+        <li>Grid Layout</li>
+        <li>Flexbox Layout</li>
+        <li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
+        <li>Custom Layouts with CSS</li>
+      </ul>
     </div>
   );
 };
