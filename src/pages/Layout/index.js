@@ -6,6 +6,7 @@ const Layout = () => {
         <li>Grid Layout</li>
         <li>Flexbox Layout</li>
         <li>CSS Frameworks (Bootstrap, Tailwind CSS)</li>
+        <li>Responsive Design</li>
         <li>Custom Layouts with CSS</li>
       </ul>
 
