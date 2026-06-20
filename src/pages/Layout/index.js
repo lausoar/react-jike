@@ -15,6 +15,7 @@ const Layout = () => {
       </ul>
 
       <P>For more information on layout techniques, check out the documentation and tutorials available online.</P>
+      <p>Happy coding!</p>
     </div>
   );
 };
